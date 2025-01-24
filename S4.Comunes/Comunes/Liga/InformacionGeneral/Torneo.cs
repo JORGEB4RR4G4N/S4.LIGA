@@ -1,4 +1,4 @@
-﻿namespace Comunes.Liga.InformacionGeneral;
+﻿namespace S4.Comunes.Liga.InformacionGeneral;
 
 public class Torneo : ClaseExtension
 {

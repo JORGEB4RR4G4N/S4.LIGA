@@ -1,4 +1,4 @@
-﻿namespace Comunes.Liga.InformacionFaltas;
+﻿namespace S4.Comunes.Liga.InformacionFaltas;
 
 public class Falta : ClaseExtension
 {

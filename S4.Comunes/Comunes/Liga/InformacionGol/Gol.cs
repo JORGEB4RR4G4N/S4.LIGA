@@ -1,4 +1,4 @@
-﻿namespace Comunes.Liga.InformacionGol;
+﻿namespace S4.Comunes.Liga.InformacionGol;
 
 public class Gol : ClaseExtension
 {

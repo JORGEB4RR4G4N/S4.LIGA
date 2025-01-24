@@ -1,4 +1,4 @@
-﻿namespace Comunes.Extension;
+﻿namespace S4.Comunes.Extension;
 
 public class ClaseExtension
 {

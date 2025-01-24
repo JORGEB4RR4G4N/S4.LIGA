@@ -1,4 +1,4 @@
-﻿namespace Comunes.Liga.InformacionJugadores;
+﻿namespace S4.Comunes.Liga.InformacionJugadores;
 
 public class Jugador : ClaseExtension
 {

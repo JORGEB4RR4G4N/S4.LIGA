@@ -1,6 +1,6 @@
-﻿global using Comunes.Extension;
-global using Comunes.Liga.InformacionGeneral;
-global using Comunes.Liga.InformacionJugadores;
-global using Comunes.Liga.InformacionCambios;
-global using Comunes.Liga.InformacionPlantel;
-global using Comunes.Liga.InformacionFaltas;
+﻿global using S4.Comunes.Extension;
+global using S4.Comunes.Liga.InformacionGeneral;
+global using S4.Comunes.Liga.InformacionJugadores;
+global using S4.Comunes.Liga.InformacionCambios;
+global using S4.Comunes.Liga.InformacionPlantel;
+global using S4.Comunes.Liga.InformacionFaltas;

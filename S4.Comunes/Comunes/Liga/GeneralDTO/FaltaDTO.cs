@@ -1,4 +1,4 @@
-﻿namespace Comunes.Liga.GeneralDTO;
+﻿namespace S4.Comunes.Liga.GeneralDTO;
 
 public class FaltaDTO : Falta
 {

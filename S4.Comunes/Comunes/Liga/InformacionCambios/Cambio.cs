@@ -1,4 +1,4 @@
-﻿namespace Comunes.Liga.InformacionCambios;
+﻿namespace S4.Comunes.Liga.InformacionCambios;
 
 public class Cambio : ClaseExtension
 {

@@ -1,4 +1,4 @@
-﻿namespace Comunes.Liga.InformacionCatalogos;
+﻿namespace S4.Comunes.Liga.InformacionCatalogos;
 
 public class TipoGol : ClaseExtension
 {
